@@ -1,0 +1,21 @@
+{
+    "name": "multilingual/translation",
+    "autoload": {
+        "psr-4": {
+            "Multilingual\\Translation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rabie boumaiza",
+            "email": "rabie@gmail.com"
+        },
+        {
+            "name": "amine kacem",
+            "email": "amine.kacem1337@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
